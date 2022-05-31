@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">INJECTEAT</string>
+    <string name="appdetail">Wellness encompasses a healthy body, a sound mind, and a tranquil spirit. Enjoy the journey as you strive for wellness.</string>
+    <string name="sologan">Let’s Get Appointment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="cardDescription">Care of your heart and blood vessels</string>
+    <string name="whoIsOrthopaedic">Issues relating to the musculoskeletal system</string>
+    <string name="paediaticiandetail">Doctors who treat children</string>
+    <string name="psychiatrists">Diagnose issues of mental health.</string>
+    <string name="diabetes">Help in treating diabetes, hyperthyroidism etc</string>
+    <string name="aboutDocter">A physician or medical doctor is a person who uses medicine to treat illness and injuries to improve a patient\'s health. In most countries, the basic medical degree qualifies a person to treat patients and prescribe appropriate treatment, including drugs. A physician may also do the simplest kinds of surgery. A physician or medical doctor is a person who uses medicine to treat illness and injuries to improve a patient\'s health. In most countries, the basic medical degree qualifies a person to treat patients and prescribe appropriate treatment, including drugs. A physician may also do the simplest kinds of surgery.</string>
+    <string name="aboutus">This policy applies only to information we collect in this App and in email, text, and other electronic communications sent through or in connection with this App. This policy DOES NOT apply to information that: We collect offline or on any other Mindset apps or websites, including websites you may access through this App. You provide to or is collected by any third party (see LINK TO THIRD-PARTY INFORMATION COLLECTION). Third party websites and applications may have their own privacy policies which we encourage you to read before providing information on or through them. Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, do not download, register with, or use this App. By downloading, registering with, or using this App, you agree to this privacy policy. This policy may change from time to time (see LINK TO</string>
+</resources>
